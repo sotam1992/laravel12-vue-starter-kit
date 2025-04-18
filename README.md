@@ -28,3 +28,4 @@ git clone https://github.com/sotam1992/laravel-vue-inertia-crud.git
 cd laravel-vue-inertia-crud
 
 
+
