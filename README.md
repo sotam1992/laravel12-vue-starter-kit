@@ -27,13 +27,6 @@ This is a full-stack CRUD (Create, Read, Update, Delete) application built using
 git clone https://github.com/sotam1992/laravel-vue-inertia-crud.git
 cd laravel-vue-inertia-crud
 
-### 2. Install backend dependencies
 
-Navigate to the root directory of the project and run:
-
-bash
-Copy
-Edit
-composer install
 
 
